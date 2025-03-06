@@ -8,7 +8,10 @@ It is a simple, personal project designed to help students stay organized and mo
 - Visualize grade trends with a graph
 - View the percentage of completion of your degree program
 ### Misc Features:
-- Switch between light and dark themes  
+- Switch between light and dark themes
 
-## Installation
+## Screenshots:
+<img src= "assets/screenshots/s1d.png" width ="250" /> <img src= "assets/screenshots/s2d.png" width ="250" /> <img src= "assets/screenshots/s1l.png" width ="250" />
+
+## Installation:
 You can download the latest version of the app from the [Releases page](https://github.com/haxroor/Unisight/releases). Simply download the APK and install it.
