@@ -1,7 +1,7 @@
 # Unisight
 
-Unisight is a small project developed in Flutter, primarily aimed at learning the framework. The app is in Italian and helps students track their university grades, including both the arithmetic and weighted averages, and visualize their grades' progress through a graph.  
-This app is a simple, personal project that can be useful for students to stay organized with their academic performance.  
+Unisight is a small Flutter project primarily aimed at learning the framework. The app, available in Italian, helps students keep track of their university grades, calculate both arithmetic and weighted averages, and visualize their academic progress through a graph.
+It is a simple, personal project designed to help students stay organized and monitor their academic performance effectively.
 
 ## Features:
 - Track university grades and calculate arithmetic and weighted averages
