@@ -1,0 +1,20 @@
+[
+  {"nome": "Analisi Matematica", "voto": null, "data": null, "cfu": 9},
+  {"nome": "Architettura dei sistemi di elaborazione", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Geometria ed algebra", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Logica e reti logiche", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Matematica discreta", "voto": null, "data": null, "cfu": 9},
+  {"nome": "Programmazione dei calcolatori con laboratorio", "voto": null, "data": null, "cfu": 9},
+  {"nome": "Algoritmi e strutture dati", "voto": null, "data": null, "cfu": 12},
+  {"nome": "Basi di dati e di conoscenza", "voto": null, "data": null, "cfu": 9},
+  {"nome": "Calcolo delle probabilità e statistica", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Fondamenti di informatica", "voto": null, "data": null, "cfu": 9},
+  {"nome": "Linguaggi e metodologie di programmazione", "voto": null, "data": null, "cfu": 12},
+  {"nome": "Ricerca operativa", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Sistemi operativi e reti", "voto": null, "data": null, "cfu": 12},
+  {"nome": "Calcolo numerico", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Data Mining", "voto": null, "data": null, "cfu": 6},
+  {"nome": "Ingegneria del software", "voto": null, "data": null, "cfu": 12},
+  {"nome": "Intelligenza artificiale", "voto": null, "data": null, "cfu": 9},
+  {"nome": "${_filePath}", "voto": null, "data": null, "cfu": 6}
+]
