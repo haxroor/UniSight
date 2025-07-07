@@ -4,7 +4,11 @@ UniSight is a simple, no-frills mobile app to help you keep track of your univer
 
 The app is **in Italian** and is primarily tailored for students at the **University of Rome Tor Vergata**, as its graduation forecast formula is based on their specific rules. However, its core tracking features can be useful for any student.
 
-![UniSight Home Screen](assets/screenshots/home_screen.png) <!-- Replace with the actual path to your screenshot -->
+<p>
+  <img src="assets/screenshots/dark_home_screen.png" alt="Dark Mode Home Screen" width="300">
+      
+  <img src="assets/screenshots/light_home_screen.png" alt="Light Mode Home Screen" width="300">
+</p>
 
 ## ✨ Core Features
 
@@ -17,14 +21,14 @@ The app is **in Italian** and is primarily tailored for students at the **Univer
     *   A range of outcomes based on your thesis score.
 *   **Clean & Simple UI**: A focused and easy-to-navigate interface with light and dark modes.
 
+| Graduation Forecast                                     | Course Management                                       |
+| ------------------------------------------------------- | ----------------------------------------------------- |
+| <img src="assets/screenshots/forecast_screen.png" alt="Graduation Forecast Screen" width="300"> | <img src="assets/screenshots/settings_screen.png" alt="Course Management Screen" width="300"> |
+
 ## To-Do
 *   **Dividere gli esami in 1o, 2o, 3o anno**
 *   **Correggere formato date conseguimento esami**
 *   **Crediti di tipo D e Inglese**
-
-| Graduation Forecast                                     | Course Management                                       |
-| ------------------------------------------------------- | ----------------------------------------------------- |
-| ![Forecast Screen](assets/screenshots/forecast_screen.png) | ![Settings Screen](assets/screenshots/settings_screen.png) |
 
 ## 🚀 Getting Started
 
